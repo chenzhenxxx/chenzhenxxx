@@ -13,5 +13,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenzhenxxx&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chenzhenxxx&theme=github)
 
-* [czx_first](https://github.com/chenzhenxxx/czx_first) | [rocketmq_demo](https://github.com/chenzhenxxx/czx_first)
+* [czx_first](https://github.com/chenzhenxxx/czx_first) | [czx_first](https://github.com/chenzhenxxx/czx_first)
 * other: [Chrome-Plugin-Demo-ShowTime](https://github.com/chenzhenxxx/Chrome-Plugin-Demo-ShowTime)
