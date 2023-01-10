@@ -1,3 +1,17 @@
-![Metrics](https://metrics.lecoq.io/chenzhenxxx?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=chenzhenxxx&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=tokyonight" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenzhenxxx&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+### Hi there 👋
+
+<!-- ![daidai21 github stats](https://github-readme-stats.vercel.app/api?username=chenzhenxxx&&show_icons=true&&title_color=0366d6&&icon_color=0366d6) -->
+
+<!-- ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=chenzhenxxx&layout=compact&hide=jupyter%20notebook,html) -->
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=chenzhenxxx.chenzhenxxx" alt="visitor badge"/> 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenzhenxxx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chenzhenxxx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chenzhenxxx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenzhenxxx&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chenzhenxxx&theme=github)
+
+* [czx_first](https://github.com/chenzhenxxx/czx_first) | [rocketmq_demo](https://github.com/chenzhenxxx/czx_first)
+* other: [Chrome-Plugin-Demo-ShowTime](https://github.com/chenzhenxxx/Chrome-Plugin-Demo-ShowTime)
