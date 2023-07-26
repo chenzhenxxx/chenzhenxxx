@@ -4,7 +4,7 @@
 
 <!-- ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=chenzhenxxx&layout=compact&hide=jupyter%20notebook,html) -->
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=chenzhenxxx.chenzhenxxx" alt="visitor badge"/> 
+![Visitor Count](https://profile-counter.glitch.me/chenzhenxxx/count.svg)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenzhenxxx&theme=github)
