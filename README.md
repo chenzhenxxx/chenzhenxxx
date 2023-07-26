@@ -6,12 +6,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/chenzhenxxx/count.svg)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chenzhenxxx&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chenzhenxxx&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chenzhenxxx&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chenzhenxxx&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chenzhenxxx&theme=github)
-
-* [czx_first](https://github.com/chenzhenxxx/czx_first) | [czx_first](https://github.com/chenzhenxxx/czx_first)
-* other: [Chrome-Plugin-Demo-ShowTime](https://github.com/chenzhenxxx/Chrome-Plugin-Demo-ShowTime)
+<a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=chenzhenxxx&show_icons=true&count_private=false&theme=vue-dark" /></a>
